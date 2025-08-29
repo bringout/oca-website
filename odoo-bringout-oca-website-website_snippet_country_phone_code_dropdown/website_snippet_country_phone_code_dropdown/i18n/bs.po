@@ -1,0 +1,49 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_snippet_country_phone_code_dropdown
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: website_snippet_country_phone_code_dropdown
+#: model:website.menu,name:website_snippet_country_phone_code_dropdown.country_dropdown_phone_code_demo_page_link
+msgid "Country Phone Code Dropdown Demo"
+msgstr "Demo padajućeg popisa koda telefona zemlje"
+
+#. module: website_snippet_country_phone_code_dropdown
+#: model_terms:ir.ui.view,arch_db:website_snippet_country_phone_code_dropdown.country_phone_code_dropdown_demo_view
+msgid "Example label"
+msgstr "Primjer oznake"
+
+#. module: website_snippet_country_phone_code_dropdown
+#: model_terms:ir.ui.view,arch_db:website_snippet_country_phone_code_dropdown.country_phone_code_dropdown_demo_view
+msgid "Example label (readonly)"
+msgstr "Primjer oznake (samo za čitanje)"
+
+#. module: website_snippet_country_phone_code_dropdown
+#: model_terms:ir.ui.view,arch_db:website_snippet_country_phone_code_dropdown.country_phone_code_dropdown_demo_view
+msgid "Submit (you will see the GET parameters in the URL)"
+msgstr "Pošalji (vidjet ćete GET parametre u URL-u)"
+
+#. module: website_snippet_country_phone_code_dropdown
+#: model_terms:ir.ui.view,arch_db:website_snippet_country_phone_code_dropdown.country_phone_code_dropdown_demo_view
+msgid "Test the country phone code dropdown snippet"
+msgstr "Testirajte padajući popis koda telefona zemlje"
+
+#. module: website_snippet_country_phone_code_dropdown
+#: model_terms:ir.ui.view,arch_db:website_snippet_country_phone_code_dropdown.country_phone_code_dropdown_demo_view
+msgid "This is a form"
+msgstr "Ovo je form"
+
+#. module: website_snippet_country_phone_code_dropdown
+#: model_terms:ir.ui.view,arch_db:website_snippet_country_phone_code_dropdown.dropdown_element_form
+msgid "Your Label"
+msgstr "Vaša oznaka"
