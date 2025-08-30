@@ -2,4 +2,4 @@
 
 This addon depends on:
 
-- [website_forum](../../odoo-bringout-oca-ocb-website_forum)
+- [website_forum](../../../../../oca-ocb-website/odoo-bringout-oca-ocb-website_forum)

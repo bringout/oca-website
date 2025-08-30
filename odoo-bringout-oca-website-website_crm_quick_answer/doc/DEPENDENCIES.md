@@ -2,5 +2,5 @@
 
 This addon depends on:
 
-- [website_crm](../../odoo-bringout-oca-ocb-website_crm)
-- [base_automation](../../odoo-bringout-oca-ocb-base_automation)
+- [website_crm](../../../../../oca-ocb-website/odoo-bringout-oca-ocb-website_crm)
+- [base_automation](../../../../../oca-ocb-core/odoo-bringout-oca-ocb-base_automation)
