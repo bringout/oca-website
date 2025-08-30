@@ -2,4 +2,4 @@
 
 This addon depends on:
 
-- [website_snippet_country_dropdown](../../../../odoo-bringout-oca-website-website_snippet_country_dropdown)
+- [website_snippet_country_dropdown](https://github.com/bringout/oca-website)

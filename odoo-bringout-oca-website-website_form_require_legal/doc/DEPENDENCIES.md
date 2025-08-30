@@ -2,5 +2,5 @@
 
 This addon depends on:
 
-- [web_editor](../../../../../oca-ocb-web/odoo-bringout-oca-ocb-web_editor)
-- [website](../../../../../oca-ocb-website/odoo-bringout-oca-ocb-website)
+- [web_editor](https://github.com/bringout/oca-ocb-web)
+- [website](https://github.com/bringout/oca-ocb-website)
