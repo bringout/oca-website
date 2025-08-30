@@ -2,5 +2,5 @@
 
 This addon depends on:
 
-- [web_editor](https://github.com/bringout/oca-ocb-web/tree/390af320269d12935b357759c1589e8a2fc80f93/odoo-bringout-oca-ocb-web_editor)
-- [website](https://github.com/bringout/oca-ocb-website/tree/c163049a3e96080ea491b42bd2bc22efde70af98/odoo-bringout-oca-ocb-website)
+- [web_editor](https://github.com/bringout/oca-ocb-web/tree/00a6994d033e4c605f58b875d71530d9614d9bab/odoo-bringout-oca-ocb-web_editor)
+- [website](https://github.com/bringout/oca-ocb-website/tree/bd6600a1205eb4c26e7f290fe92240c883985125/odoo-bringout-oca-ocb-website)
