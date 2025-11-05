@@ -24,6 +24,8 @@ msgid ""
 "<i class=\"fa fa-arrow-right\"/>\n"
 "                                    How to configure Cookiebot."
 msgstr ""
+"<i class=\"fa fa-arrow-right\"/>\n"
+"Kako konfigurirati Cookiebot."
 
 #. module: website_cookiebot
 #: model_terms:ir.ui.view,arch_db:website_cookiebot.res_config_settings_view_form
@@ -31,6 +33,8 @@ msgid ""
 "<span class=\"fa fa-lg fa-globe\" title=\"Values set here are website-"
 "specific.\" groups=\"website.group_multi_website\"/>"
 msgstr ""
+"<span class=\"fa fa-lg fa-globe\" title=\"Vrijednosti postavljene ovdje su "
+"specifične za web stranicu.\" groups=\"website.group_multi_website\"/>"
 
 #. module: website_cookiebot
 #: model_terms:ir.ui.view,arch_db:website_cookiebot.res_config_settings_view_form
@@ -39,6 +43,9 @@ msgid ""
 "                                    Instead of step 3, paste here your Domain Group ID.\n"
 "                                </span>"
 msgstr ""
+"<span class=\"text-muted\">\n"
+"Umjesto koraka 3, ovdje ulijepite svoj Domain Group ID.\n"
+"</span>"
 
 #. module: website_cookiebot
 #: model_terms:ir.ui.view,arch_db:website_cookiebot.res_config_settings_view_form
@@ -82,7 +89,6 @@ msgstr "Domain Group ID"
 
 #. module: website_cookiebot
 #: model:ir.model.fields,help:website_cookiebot.field_res_config_settings__cookiebot_dgid
-#: model:ir.model.fields,help:website_cookiebot.field_website__cookiebot_dgid
 msgid "Get this code from Cookiebot to enable it on the website."
 msgstr "Nabavite ovaj kod od Cookiebot-a da ga omogućite na web stranici."
 

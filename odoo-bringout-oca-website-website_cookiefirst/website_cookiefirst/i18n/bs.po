@@ -35,7 +35,6 @@ msgstr "Izjava o kolačićima"
 
 #. module: website_cookiefirst
 #: model:ir.model.fields,field_description:website_cookiefirst.field_res_config_settings__cookiefirst_identifier
-#: model:ir.model.fields,field_description:website_cookiefirst.field_website__cookiefirst_identifier
 msgid "Cookiefirst ID"
 msgstr "Cookiefirst ID"
 
@@ -46,7 +45,6 @@ msgstr "Politika kolačića"
 
 #. module: website_cookiefirst
 #: model:ir.model.fields,help:website_cookiefirst.field_res_config_settings__cookiefirst_identifier
-#: model:ir.model.fields,help:website_cookiefirst.field_website__cookiefirst_identifier
 msgid "This field holds the ID, needed for Cookiefirst functionality."
 msgstr "Ovo polje sadrži ID, potreban za Cookiefirst funkcionalnost."
 

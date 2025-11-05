@@ -29,10 +29,19 @@ msgid ""
 "                </div>\n"
 "        "
 msgstr ""
+"<div>Dragi <t t-out=\"object.partner_id.name or object.contact_name or ''\"></t>\n"
+"<br>\n"
+"<br>\n"
+"<h3>Hvala što ste nas kontaktirali!</h3>\n"
+"<p>\n"
+"Primili smo vaš zahtjev i odgovoriti ćemo vam što prije.\n"
+"</p>\n"
+"<p>Molimo budite strpljivi. Srdačno.</p>\n"
+"<p>-- <br/>VašTim</p>\n"
+"</div>"
 
 #. module: website_crm_quick_answer
 #: model:ir.actions.server,name:website_crm_quick_answer.automated_action_ir_actions_server
-#: model:mail.template,name:website_crm_quick_answer.email_template
 msgid "Quick response to website contact form"
 msgstr "Brz odgovor na web kontakt formu"
 

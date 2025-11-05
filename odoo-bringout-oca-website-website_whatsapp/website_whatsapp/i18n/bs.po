@@ -19,6 +19,8 @@ msgid ""
 "<span class=\"fa fa-lg fa-globe\" title=\"Values set here are website-"
 "specific.\" groups=\"website.group_multi_website\"/>"
 msgstr ""
+"<span class=\"fa fa-lg fa-globe\" title=\"Vrijednosti postavljene ovdje su "
+"specifične za web stranicu.\" groups=\"website.group_multi_website\"/>"
 
 #. module: website_whatsapp
 #: model:ir.model,name:website_whatsapp.model_res_config_settings
@@ -27,33 +29,29 @@ msgstr "Postavke"
 
 #. module: website_whatsapp
 #: model:ir.model.fields,field_description:website_whatsapp.field_res_config_settings__whatsapp_text
-#: model:ir.model.fields,field_description:website_whatsapp.field_website__whatsapp_text
 msgid "Default text for Whatsapp"
 msgstr "Zadani tekst za Whatsapp"
 
 #. module: website_whatsapp
 #: model:ir.model.fields,help:website_whatsapp.field_res_config_settings__whatsapp_text
-#: model:ir.model.fields,help:website_whatsapp.field_website__whatsapp_text
 msgid "Default text to send as message"
 msgstr "Zadani tekst za slanje kao poruku"
 
 #. module: website_whatsapp
 #: model:ir.model.fields,help:website_whatsapp.field_res_config_settings__whatsapp_track_url
-#: model:ir.model.fields,help:website_whatsapp.field_website__whatsapp_track_url
 msgid ""
 "Indicate in the user's message the URL of the page from which it was sent"
-msgstr ""
+msgstr "Naznači u korisničkoj poruci URL stranice s koje je poslana"
 
 #. module: website_whatsapp
 #. odoo-python
-#: code:addons/website_whatsapp/models/website.py:0
+#: code:addons/website_whatsapp/models/website.py
 #, python-format
 msgid "Sent from:"
 msgstr "Poslano iz:"
 
 #. module: website_whatsapp
 #: model:ir.model.fields,field_description:website_whatsapp.field_res_config_settings__whatsapp_track_url
-#: model:ir.model.fields,field_description:website_whatsapp.field_website__whatsapp_track_url
 msgid "Track URL"
 msgstr "Prati URL"
 
@@ -74,7 +72,6 @@ msgstr "WhatsApp plutajuća ikona"
 
 #. module: website_whatsapp
 #: model:ir.model.fields,field_description:website_whatsapp.field_res_config_settings__whatsapp_number
-#: model:ir.model.fields,field_description:website_whatsapp.field_website__whatsapp_number
 msgid "WhatsApp number"
 msgstr "WhatsApp broj"
 

@@ -19,6 +19,8 @@ msgid ""
 "If checked, the menu will be displayed when the user is logged and give "
 "access."
 msgstr ""
+"Ako je označeno, meni će se prikazivati kada je korisnik prijavljen i "
+"omogućiće pristup."
 
 #. module: website_menu_by_user_status
 #: model:ir.model.fields,help:website_menu_by_user_status.field_website_menu__user_not_logged
@@ -26,6 +28,8 @@ msgid ""
 "If checked, the menu will be displayed when the user is not logged and give "
 "access."
 msgstr ""
+"Ako je označeno, meni će se prikazivati kada korisnik nije prijavljen i "
+"omogućiće pristup."
 
 #. module: website_menu_by_user_status
 #: model:ir.model.fields,field_description:website_menu_by_user_status.field_website_menu__user_logged

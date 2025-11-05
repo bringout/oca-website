@@ -15,8 +15,6 @@ msgstr ""
 
 #. module: website_require_login
 #: model:ir.actions.act_window,name:website_require_login.action_website_auth_url
-#: model:ir.model,name:website_require_login.model_website_auth_url
-#: model:ir.ui.menu,name:website_require_login.menu_website_auth_url
 msgid "Authorization required URLs"
 msgstr "Authorization required URLs"
 
@@ -71,6 +69,8 @@ msgid ""
 "Relative URL path and subpath. Ex.: /shop will restrict /shop, "
 "/shop/product, etc."
 msgstr ""
+"Relativna URL putanja i podputanja. Npr.: /shop će ograničiti /shop, "
+"/shop/product itd."
 
 #. module: website_require_login
 #: model:ir.model.constraint,message:website_require_login.constraint_website_auth_url_path_unique

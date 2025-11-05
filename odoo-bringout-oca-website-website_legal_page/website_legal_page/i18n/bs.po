@@ -20,6 +20,9 @@ msgid ""
 "fit, and by using this Website you are expected to review these Terms on a "
 "regular basis."
 msgstr ""
+"**NAZIV KOMPANIJE** ima dozvolu da revidira ove Uslove u bilo koje vrijeme "
+"kako smatra za shodno, i korištenjem ove web stranice očekuje se da "
+"pregledate ove Uslove redovno."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -40,6 +43,11 @@ msgid ""
 "may have for this Website are confidential and you must maintain "
 "confidentiality as well."
 msgstr ""
+"Određene oblasti ove web stranice su ograničene od pristupa od vas i **NAZIV"
+" KOMPANIJE** može dodatno ograničiti pristup od vas bilo kojoj oblasti ove "
+"web stranice, u bilo koje vrijeme, po apsolutnoj diskreciji. Bilo koji "
+"korisnički ID i lozinka koji možda imate za ovu web stranicu su povjerljivi "
+"i morate održavati povjerljivost takođe."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -53,6 +61,9 @@ msgid ""
 "law, such provisions shall be deleted without affecting the remaining "
 "provisions herein."
 msgstr ""
+"Ako se bilo koja odredba ovih Uslova smatra nevažećom pod bilo kojim "
+"primjenjivim pravom, takve odredbe će biti obrisane bez utjecanja na "
+"preostale odredbe."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -64,6 +75,13 @@ msgid ""
 "shall not be held liable for any indirect, consequential or special "
 "liability arising out of or in any way related to your use of this Website."
 msgstr ""
+"Ni pod kakvim okolnostima **NAZIV KOMPANIJE**, niti bilo koji od njegovih "
+"službenika, direktora i zaposlenih, neće biti odgovoran za bilo šta što "
+"nastane iz ili na bilo koji način povezano sa vašim korištenjem ove web "
+"stranice bilo da je takva odgovornost po ugovoru. **NAZIV KOMPANIJE**, "
+"uključujući njegove službenike, direktore i zaposlene neće biti odgovoran za"
+" bilo koju indirektnu, posljedičnu ili posebnu odgovornost koja nastane iz "
+"ili na bilo koji način povezana sa vašim korištenjem ove web stranice."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -71,6 +89,8 @@ msgid ""
 "In these Website Standard Terms and Conditions, “Your Content” shall mean any audio, video text, images or other material you choose to display on this Website. By displaying Your Content, you grant **COMPANY NAME** a non-exclusive, worldwide irrevocable, sub licensable license to use, reproduce, adapt, publish, translate and distribute it in any and all media. <br/>\n"
 "                                        Your Content must be your own and must not be invading any third-party's rights. **COMPANY NAME** reserves the right to remove any of Your Content from this Website at any time without notice."
 msgstr ""
+"U ovim standardnim uslovima i uvjetima web stranice, “Vaš sadržaj” će značiti bilo koji audio, video tekst, slike ili drugi materijal koji odaberete da prikažete na ovoj web stranici. Prikazivanjem vašeg sadržaja, dajete **NAZIV KOMPANIJE** neekskluzivnu, svjetsku nepozvanu, podlicenciranu licencu za korištenje, reprodukovanje, prilagođavanje, objavljivanje, prevođenje i distribuciju u bilo kojim i svim medijima. <br/>\n"
+"                                        Vaš sadržaj mora biti vaš i ne smije narušavati prava bilo koje treće strane. **NAZIV KOMPANIJE** zadržava pravo da ukloni bilo koji od vašeg sadržaja sa ove web stranice u bilo koje vrijeme bez obavještenja."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -108,6 +128,8 @@ msgid ""
 "Other than the content you own, under these Terms, **COMPANY NAME** and/or its licensors own all the intellectual property rights and materials contained in this Website. <br/>\n"
 "                                        You are granted limited license only for purposes of viewing the material contained on this Website."
 msgstr ""
+"Osim sadržaja koji posjedujete, prema ovim Uslovima, **NAZIV KOMPANIJE** i/ili njegovi licencatori posjeduju sva prava intelektualne svojine i materijale sadržane na ovoj web stranici. <br/>\n"
+"                                        Data vam je ograničena licenca samo u svrhe gledanja materijala sadržanog na ovoj web stranici."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -125,6 +147,8 @@ msgid ""
 "THIS IS A SAMPLE PAGE! <br/>Please, edit this page to be valid with your use"
 " case."
 msgstr ""
+"OVO JE PRIMJER STRANICE! <br/>Molimo, uredite ovu stranicu da bude važeća za"
+" vaš slučaj korištenja."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -134,6 +158,10 @@ msgid ""
 "However, you are not allowed to assign, transfer, or subcontract any of your"
 " rights and/or obligations under these Terms."
 msgstr ""
+"**NAZIV KOMPANIJE** ima dozvolu da dodijeli, prenese, i podlicencira svoja "
+"prava i/ili obaveze prema ovim Uslovima bez ikakvog obavještenja. Međutim, "
+"vi nemate dozvolu da dodijelite, prenesete, ili podlicencirate bilo koja od "
+"svojih prava i/ili obaveza prema ovim Uslovima."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -143,6 +171,10 @@ msgid ""
 "jurisdiction of the state and federal courts located in **COUNTRY** for the "
 "resolution of any disputes."
 msgstr ""
+"Ovi Uslovi će biti upravljani i tumačeni u skladu sa zakonima države "
+"**ZEMLJA**, i vi se podvrgavate neekskluzivnoj jurisdikciji državnih i "
+"federalnih sudova koji se nalaze u **ZEMLJA** za rješavanje bilo kakvih "
+"sporova."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -151,6 +183,9 @@ msgid ""
 "                                        These Terms will be applied fully and affect to your use of this Website. By using this Website, you agreed to accept all terms and conditions written in here. You must not use this Website if you disagree with any of these Website Standard Terms and Conditions. <br/>\n"
 "                                        Minors or people below 18 years old are not allowed to use this Website."
 msgstr ""
+"Ovi standardni uslovi i uvjeti web stranice napisani na ovoj web stranici će upravljati vašim korištenjem naše web stranice, **NAZIV WEB STRANICE** dostupne na **URL WEB STRANICE**. <br/>\n"
+"                                        Ovi Uslovi će se primijeniti potpuno i utjecati na vaše korištenje ove web stranice. Korištenjem ove web stranice, složili ste se da prihvatite sve uslove i uvjete napisane ovdje. Ne smijete koristiti ovu web stranicu ako se ne slažete sa bilo kojim od ovih standardnih uslova i uvjeta web stranice. <br/>\n"
+"                                        Maloljetnici ili ljudi mlađi od 18 godina nemaju dozvolu koristiti ovu web stranicu."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -160,6 +195,11 @@ msgid ""
 "Website or the materials contained on this Website. Also, nothing contained "
 "on this Website shall be interpreted as advising you."
 msgstr ""
+"Ova web stranica je pružena “kako jeste,” sa svim greškama, i **NAZIV "
+"KOMPANIJE** izražava nikakve reprezentacije ili garancije, bilo kojeg tipa "
+"vezanog za ovu web stranicu ili materijale sadržane na ovoj web stranici. "
+"Takođe, ništa što je sadržano na ovoj web stranici se neće tumačiti kao "
+"savjetovanje."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -179,6 +219,10 @@ msgid ""
 "expenses arising in any way related to your breach of any of the provisions "
 "of these Terms."
 msgstr ""
+"Vi ovim obeštećujete u potpunosti **NAZIV KOMPANIJE** od i protiv bilo koje "
+"i/ili sve odgovornosti, troškove, zahtjeve, uzroke akcija, štete i troškove "
+"koji nastaju na bilo koji način vezano za vaše kršenje bilo koje odredbe "
+"ovih Uslova."
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -191,6 +235,9 @@ msgid ""
 "engaging in any data mining, data harvesting, data extracting or any other "
 "similar activity in relation to this Website;"
 msgstr ""
+"uključivanje u bilo kakvo rudarenje podataka, skupljanje podataka, "
+"ekstraktovanje podataka ili bilo koju drugu sličnu aktivnost u vezi sa ovom "
+"web stranicom;"
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -200,13 +247,17 @@ msgstr "javno izvođenje i/ili pokazivanje bilo kojeg materijala web stranice;"
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
 msgid "publishing any Website material in any other media;"
-msgstr "objavljivanje bilo kojeg materijala web stranice u bilo kojim drugim medijima;"
+msgstr ""
+"objavljivanje bilo kojeg materijala web stranice u bilo kojim drugim "
+"medijima;"
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
 msgid ""
 "selling, sublicensing and/or otherwise commercializing any Website material;"
 msgstr ""
+"prodaja, podlicenciranje i/ili na drugi način komercijalizacija bilo kojeg "
+"materijala web stranice;"
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
@@ -214,20 +265,29 @@ msgid ""
 "using this Website contrary to applicable laws and regulations, or in any "
 "way may cause harm to the Website, or to any person or business entity;"
 msgstr ""
+"korištenje ove web stranice protivno primjenjivim zakonima i propisima, ili "
+"na bilo koji način koji može uzrokovati štetu web stranici, ili bilo kojoj "
+"osobi ili poslovnom entitetu;"
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
 msgid ""
 "using this Website in any way that impacts user access to this Website;"
 msgstr ""
+"korištenje ove web stranice na bilo koji način koji utiče na korisnički "
+"pristup ovoj web stranici;"
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
 msgid ""
 "using this Website in any way that is or may be damaging to this Website;"
 msgstr ""
+"korištenje ove web stranice na bilo koji način koji je ili može biti štetan "
+"po ovu web stranicu;"
 
 #. module: website_legal_page
 #: model_terms:ir.ui.view,arch_db:website_legal_page.legal_page
 msgid "using this Website to engage in any advertising or marketing."
-msgstr "korištenje ove web stranice za uključivanje u bilo kakvo reklamiranje ili marketing."
+msgstr ""
+"korištenje ove web stranice za uključivanje u bilo kakvo reklamiranje ili "
+"marketing."

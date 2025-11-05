@@ -19,6 +19,8 @@ msgid ""
 "<i class=\"fa fa-arrow-right\"/>\n"
 "                                        Get reCAPTCHA v2 keys"
 msgstr ""
+"<i class=\"fa fa-arrow-right\"/>\n"
+"                                        Preuzmite reCAPTCHA v2 ključeve"
 
 #. module: website_recaptcha_v2
 #: model_terms:ir.ui.view,arch_db:website_recaptcha_v2.res_config_settings_view_form
@@ -26,6 +28,8 @@ msgid ""
 "<span class=\"fa fa-lg fa-globe\" title=\"Values set here are website-"
 "specific.\" groups=\"website.group_multi_website\"/>"
 msgstr ""
+"<span class=\"fa fa-lg fa-globe\" title=\"Vrijednosti postavljene ovdje su "
+"specifične za web stranicu.\" groups=\"website.group_multi_website\"/>"
 
 #. module: website_recaptcha_v2
 #: model:ir.model,name:website_recaptcha_v2.model_res_config_settings
@@ -34,13 +38,12 @@ msgstr "Postavke"
 
 #. module: website_recaptcha_v2
 #: model:ir.model.fields,field_description:website_recaptcha_v2.field_res_config_settings__recaptcha_v2_enabled
-#: model:ir.model.fields,field_description:website_recaptcha_v2.field_website__recaptcha_v2_enabled
 msgid "Enable reCAPTCHA v2"
 msgstr "omogući reCAPTCHA v2"
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "No response given."
 msgstr "Jedna zvezda"
@@ -52,70 +55,68 @@ msgstr "Jedna zvezda od pet"
 
 #. module: website_recaptcha_v2
 #: model:ir.model.fields,field_description:website_recaptcha_v2.field_res_config_settings__recaptcha_v2_secret_key
-#: model:ir.model.fields,field_description:website_recaptcha_v2.field_website__recaptcha_v2_secret_key
 msgid "Secret Key (v2)"
 msgstr "Secret Key (v2)"
 
 #. module: website_recaptcha_v2
 #: model:ir.model.fields,field_description:website_recaptcha_v2.field_res_config_settings__recaptcha_v2_site_key
-#: model:ir.model.fields,field_description:website_recaptcha_v2.field_website__recaptcha_v2_site_key
 msgid "Site Key (v2)"
 msgstr "Site Key (v2)"
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "The challenge was not successfully completed."
 msgstr "Ukloni selekciju"
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "The request is invalid or malformed."
 msgstr "Tri zvezde od pet"
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid ""
 "The response is no longer valid: either is too old or has been used "
 "previously."
-msgstr ""
+msgstr "Odgovor više nije važeći: ili je prestar ili je već iskorišten."
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "The response parameter is invalid or malformed."
 msgstr "The response parameter is invalid or malformed."
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "The response parameter is missing."
 msgstr "The response parameter is missing."
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "The secret parameter is invalid or malformed."
 msgstr "The secret parameter is invalid or malformed."
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "The secret parameter is missing."
 msgstr "The secret parameter is missing."
 
 #. module: website_recaptcha_v2
 #. odoo-python
-#: code:addons/website_recaptcha_v2/models/website.py:0
+#: code:addons/website_recaptcha_v2/models/website.py
 #, python-format
 msgid "Unknown reCAPTCHA error (error code: {errorcode})."
 msgstr "Unknown reCAPTCHA greška (greška code: {errorcode})."

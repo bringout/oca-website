@@ -19,6 +19,8 @@ msgid ""
 "<i class=\"fa fa-arrow-right\"/>\n"
 "                                How to get my GTM container ID"
 msgstr ""
+"<i class=\"fa fa-arrow-right\"/>\n"
+"                                Kako da dobijem svoj GTM container ID"
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
@@ -26,6 +28,8 @@ msgid ""
 "<span class=\"fa fa-lg fa-globe\" title=\"Values set here are website-"
 "specific.\" groups=\"website.group_multi_website\"/>"
 msgstr ""
+"<span class=\"fa fa-lg fa-globe\" title=\"Vrijednosti postavljene ovdje su "
+"specifične za web stranicu.\" groups=\"website.group_multi_website\"/>"
 
 #. module: website_google_tag_manager
 #: model:ir.model,name:website_google_tag_manager.model_res_config_settings
@@ -34,7 +38,6 @@ msgstr "Postavke"
 
 #. module: website_google_tag_manager
 #: model:ir.model.fields,field_description:website_google_tag_manager.field_res_config_settings__google_tag_manager_key
-#: model:ir.model.fields,field_description:website_google_tag_manager.field_website__google_tag_manager_key
 msgid "Container ID"
 msgstr "Container ID"
 
@@ -53,6 +56,7 @@ msgstr "Google Tag Manager"
 msgid "Manage all your tags without editing code."
 msgstr "Upravljajte svim svojim oznakama bez uređivanja koda."
 
+# taken from hr.po
 #. module: website_google_tag_manager
 #: model:ir.model,name:website_google_tag_manager.model_website
 msgid "Website"

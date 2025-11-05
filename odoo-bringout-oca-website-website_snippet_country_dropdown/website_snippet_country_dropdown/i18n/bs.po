@@ -45,15 +45,15 @@ msgstr "Ovo je form"
 
 #. module: website_snippet_country_dropdown
 #. odoo-javascript
-#: code:addons/website_snippet_country_dropdown/static/src/xml/country_dropdown.xml:0
+#: code:addons/website_snippet_country_dropdown/static/src/xml/country_dropdown.xml
 #, python-format
 msgid ""
 "Write the \"name\" attribute for the input what will be sent with the form."
-msgstr ""
+msgstr "Napišite \"name\" atribut za unos koji će biti poslan s formom."
 
 #. module: website_snippet_country_dropdown
 #. odoo-javascript
-#: code:addons/website_snippet_country_dropdown/static/src/xml/country_dropdown.xml:0
+#: code:addons/website_snippet_country_dropdown/static/src/xml/country_dropdown.xml
 #, python-format
 msgid "You can modify the label directly with the website editor."
 msgstr "Možete modificirati oznaku direktno s uređivačem web stranice."

@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: website_form_require_legal
 #. odoo-javascript
-#: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml:0
+#: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml
 #, python-format
 msgid "Agree to"
 msgstr "Složiti se sa"
@@ -27,14 +27,14 @@ msgstr "Prihvatanje pravnih uslova"
 
 #. module: website_form_require_legal
 #. odoo-javascript
-#: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml:0
+#: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml
 #, python-format
 msgid "You must agree before submitting."
 msgstr "Morate se složiti prije podnošenja."
 
 #. module: website_form_require_legal
 #. odoo-javascript
-#: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml:0
+#: code:addons/website_form_require_legal/static/src/xml/website_form_editor.xml
 #, python-format
 msgid "terms and conditions"
 msgstr "uslovi i odredbe"
