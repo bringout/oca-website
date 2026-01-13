@@ -34,7 +34,7 @@ msgstr ""
 #. module: website_google_tag_manager
 #: model:ir.model,name:website_google_tag_manager.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: website_google_tag_manager
 #: model:ir.model.fields,field_description:website_google_tag_manager.field_res_config_settings__google_tag_manager_key

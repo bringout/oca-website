@@ -46,17 +46,17 @@ msgstr "ID"
 #. module: website_require_login
 #: model:ir.model.fields,field_description:website_require_login.field_website_auth_url____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena na"
+msgstr "Zadnje mijenjano"
 
 #. module: website_require_login
 #: model:ir.model.fields,field_description:website_require_login.field_website_auth_url__write_uid
 msgid "Last Updated by"
-msgstr "Zadnje ažuriranje izvršio"
+msgstr "Zadnji ažurirao"
 
 #. module: website_require_login
 #: model:ir.model.fields,field_description:website_require_login.field_website_auth_url__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažuriranje na"
+msgstr "Zadnje ažurirano"
 
 #. module: website_require_login
 #: model:ir.model.fields,field_description:website_require_login.field_website_auth_url__path

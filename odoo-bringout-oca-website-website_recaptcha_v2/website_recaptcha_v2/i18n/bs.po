@@ -34,7 +34,7 @@ msgstr ""
 #. module: website_recaptcha_v2
 #: model:ir.model,name:website_recaptcha_v2.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: website_recaptcha_v2
 #: model:ir.model.fields,field_description:website_recaptcha_v2.field_res_config_settings__recaptcha_v2_enabled
