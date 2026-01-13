@@ -55,7 +55,7 @@ msgstr "Traži odobrenje za korišćenje kolačića"
 #. module: website_cookiebot
 #: model:ir.model,name:website_cookiebot.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: website_cookiebot
 #: model_terms:ir.ui.view,arch_db:website_cookiebot.cookies

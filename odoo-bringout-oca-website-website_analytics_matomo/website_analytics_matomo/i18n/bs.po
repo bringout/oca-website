@@ -71,7 +71,7 @@ msgstr "Aktivno vrijeme (sekunde)"
 #. module: website_analytics_matomo
 #: model:ir.model,name:website_analytics_matomo.model_res_config_settings
 msgid "Config Settings"
-msgstr "Podešavanja konfiguracije"
+msgstr "Postavke konfiguracije"
 
 #. module: website_analytics_matomo
 #: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
