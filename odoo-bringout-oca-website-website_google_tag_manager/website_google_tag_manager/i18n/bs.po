@@ -39,17 +39,17 @@ msgstr "Postavke"
 #. module: website_google_tag_manager
 #: model:ir.model.fields,field_description:website_google_tag_manager.field_res_config_settings__google_tag_manager_key
 msgid "Container ID"
-msgstr "Container ID"
+msgstr ""
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
 msgid "GTM-XXXXX"
-msgstr "GTM-XXXXX"
+msgstr ""
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings
 msgid "Google Tag Manager"
-msgstr "Google Tag Manager"
+msgstr ""
 
 #. module: website_google_tag_manager
 #: model_terms:ir.ui.view,arch_db:website_google_tag_manager.view_website_config_settings

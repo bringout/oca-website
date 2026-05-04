@@ -16,7 +16,7 @@ msgstr ""
 #. module: website_cookiefirst
 #: model_terms:ir.ui.view,arch_db:website_cookiefirst.res_config_settings_view_form
 msgid "00000000-0000-0000-0000-000000000000"
-msgstr "00000000-0000-0000-0000-000000000000"
+msgstr ""
 
 #. module: website_cookiefirst
 #: model_terms:ir.ui.view,arch_db:website_cookiefirst.res_config_settings_view_form
@@ -36,7 +36,7 @@ msgstr "Izjava o kolačićima"
 #. module: website_cookiefirst
 #: model:ir.model.fields,field_description:website_cookiefirst.field_res_config_settings__cookiefirst_identifier
 msgid "Cookiefirst ID"
-msgstr "Cookiefirst ID"
+msgstr ""
 
 #. module: website_cookiefirst
 #: model_terms:ir.ui.view,arch_db:website_cookiefirst.footer_copyright_company_name

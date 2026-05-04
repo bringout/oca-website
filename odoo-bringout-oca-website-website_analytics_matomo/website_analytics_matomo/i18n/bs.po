@@ -21,7 +21,7 @@ msgstr "Matomo analitika"
 #. module: website_analytics_matomo
 #: model:ir.model.fields,field_description:website_analytics_matomo.field_res_config_settings__matomo_analytics_host
 msgid "Matomo host"
-msgstr "Matomo host"
+msgstr ""
 
 #. module: website_analytics_matomo
 #: model:ir.model.fields,field_description:website_analytics_matomo.field_res_config_settings_matomo_analytics_id
@@ -56,12 +56,12 @@ msgstr "Web stranica"
 #. module: website_analytics_matomo
 #: model:ir.ui.view,arch_db:website_analytics_matomo.view_website_config_settings
 msgid "host.name/matomo"
-msgstr "host.name/matomo"
+msgstr ""
 
 #. module: website_analytics_matomo
 #: model:ir.model,name:website_analytics_matomo.model_res_config_settings
 msgid "res.config.settings"
-msgstr "res.config.settings"
+msgstr ""
 
 #. module: website_analytics_matomo
 #: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
@@ -112,7 +112,7 @@ msgstr "Matomo timer otkucaja srca"
 #. module: website_analytics_matomo
 #: model:ir.model.fields,field_description:website_analytics_matomo.field_website__matomo_analytics_host_url
 msgid "Matomo host URL"
-msgstr "Matomo host URL"
+msgstr ""
 
 #. module: website_analytics_matomo
 #: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
@@ -134,4 +134,4 @@ msgstr "Host/putanja kojoj je vaša Matomo instalacija dostupna na internetu."
 #. module: website_analytics_matomo
 #: model_terms:ir.ui.view,arch_db:website_analytics_matomo.res_config_settings_view_form
 msgid "https://matomo.host.name/"
-msgstr "https://matomo.host.name/"
+msgstr ""

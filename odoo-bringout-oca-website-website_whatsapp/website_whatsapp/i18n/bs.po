@@ -45,7 +45,7 @@ msgstr "Naznači u korisničkoj poruci URL stranice s koje je poslana"
 
 #. module: website_whatsapp
 #. odoo-python
-#: code:addons/website_whatsapp/models/website.py
+#: code:addons/website_whatsapp/models/website.py:0
 #, python-format
 msgid "Sent from:"
 msgstr "Poslano iz:"
