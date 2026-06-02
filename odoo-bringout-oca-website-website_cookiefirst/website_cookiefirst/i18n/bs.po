@@ -26,7 +26,7 @@ msgstr "Dodaj Cookiefirst funkcionalnost"
 #. module: website_cookiefirst
 #: model:ir.model,name:website_cookiefirst.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: website_cookiefirst
 #: model_terms:ir.ui.view,arch_db:website_cookiefirst.cookies
